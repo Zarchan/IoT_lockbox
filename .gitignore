@@ -4,6 +4,10 @@
 
 #custom
 diary
+tatobari_hx711.py
+/aws
+/pi_cam
+*zip
 
 __pycache__/
 *.py[cod]
